@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a31f372172c254a488d1fb7f9ded2fcf, type: 3}
+  m_Name: BouncyOrb
+  m_EditorClassIdentifier: 
+  name: bouncyLad
+  color: {r: 0, g: 0, b: 0, a: 1}
+  life: 30
+  maxLife: 30
+  damage: 1
+  startRadius: 1
+  radius: 1
+  senseRadius: 1
+  thickness: 0.25
+  mass: 1
+  drag: 0.4
+  hardness: 1
+  cost: 5
+  value: 5
+  physMaterial: {fileID: 6200000, guid: b8ebebcf487748840b87b6eb187109e2, type: 2}
+  oscillationSpeed: 5
+  oscillationSize: 0.25

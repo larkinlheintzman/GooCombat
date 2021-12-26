@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+OrbDisplay	C:\Users\Larkin\GooCombat\Assets\Scripts\OrbDisplay.cs	/^public class OrbDisplay : MonoBehaviour$/;"	class	line:5
+orb	C:\Users\Larkin\GooCombat\Assets\Scripts\OrbDisplay.cs	/^  public Orb orb;$/;"	field	line:7	class:OrbDisplay
+lineRenderer	C:\Users\Larkin\GooCombat\Assets\Scripts\OrbDisplay.cs	/^  private LineRenderer lineRenderer;$/;"	field	line:9	class:OrbDisplay	file:
+theta_scale	C:\Users\Larkin\GooCombat\Assets\Scripts\OrbDisplay.cs	/^  private float theta_scale = 0.025f;$/;"	field	line:10	class:OrbDisplay	file:
+lastLife	C:\Users\Larkin\GooCombat\Assets\Scripts\OrbDisplay.cs	/^  private float lastLife = 1.0f;$/;"	field	line:11	class:OrbDisplay	file:
+noiseAmount	C:\Users\Larkin\GooCombat\Assets\Scripts\OrbDisplay.cs	/^  private float noiseAmount = 0.0f;$/;"	field	line:12	class:OrbDisplay	file:
+inflation	C:\Users\Larkin\GooCombat\Assets\Scripts\OrbDisplay.cs	/^  private float inflation = 1.0f;$/;"	field	line:13	class:OrbDisplay	file:
+Init	C:\Users\Larkin\GooCombat\Assets\Scripts\OrbDisplay.cs	/^  public void Init()$/;"	method	line:15	class:OrbDisplay	signature:()
+Update	C:\Users\Larkin\GooCombat\Assets\Scripts\OrbDisplay.cs	/^  public void Update()$/;"	method	line:36	class:OrbDisplay	signature:()

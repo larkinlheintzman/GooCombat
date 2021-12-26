@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a56270fb5414fce43b70e55d767b1e53, type: 3}
+  m_Name: PinkOrb
+  m_EditorClassIdentifier: 
+  name: pinkie
+  color: {r: 0.9245283, g: 0.3794055, b: 0.7901134, a: 1}
+  life: 5
+  maxLife: 5
+  damage: 20
+  startRadius: 1.5
+  radius: 1.5
+  senseRadius: 1
+  thickness: 0.5
+  mass: 0.5
+  drag: 0.1
+  hardness: 0
+  cost: 10
+  value: 10
+  physMaterial: {fileID: 6200000, guid: b8ebebcf487748840b87b6eb187109e2, type: 2}

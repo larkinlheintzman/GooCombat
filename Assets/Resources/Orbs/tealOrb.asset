@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a56270fb5414fce43b70e55d767b1e53, type: 3}
+  m_Name: tealOrb
+  m_EditorClassIdentifier: 
+  name: tealyBoy
+  color: {r: 0.1481844, g: 0.8490566, b: 0.7679194, a: 1}
+  life: 100
+  maxLife: 100
+  damage: 20
+  startRadius: 0.5
+  radius: 0.5
+  senseRadius: 0.6
+  thickness: 0.25
+  mass: 0.5
+  drag: 0.1
+  hardness: 0
+  cost: 4
+  value: 4
+  physMaterial: {fileID: 6200000, guid: b8ebebcf487748840b87b6eb187109e2, type: 2}
